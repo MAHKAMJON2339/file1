@@ -1,0 +1,11 @@
+import math
+a=float(input("a="))
+b=float(input("b="))
+print((a+b)/2)
+print(math.sqrt(a*b))
+
+
+►►►  dzen.ru/progaming1  ◄◄◄
+
+
+
